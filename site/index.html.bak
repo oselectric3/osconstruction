@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>O.S. Electric | Buffalo Electricians</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Licensed electricians serving Buffalo, NY with over 20 years of experience.">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="hero">
+  <h1>Powering Your World, Safely & Efficiently</h1>
+  <p>
+    Welcome to O.S. Electric, your trusted electrician in Buffalo, New York. With over 20 years of experience, we provide dependable electrical solutions for homes, businesses, and critical environments. We're committed to quality, safety, and meeting the demands of today's technology.
+    At O.S. Electric, we're dedicated to providing top-notch electrical services with a focus on safety, efficiency, and reliability. We adapt to your unique needs and deliver excellence in every project.
+  </p>
+  <a href="#contact" class="btn">Request Service</a>
+</header>
+
+<nav class="nav">
+  <a href="index.html">Home</a>
+  <a href="services.html">Services</a>
+  <a href="about.html">About</a>
+</nav>
+
+<section class="section">
+  <h2>Our Commitment</h2>
+  <p>
+   We offer a comprehensive range of electrical services to meet your residential and commercial needs. From new installations to repairs and maintenance, our expert electricians are here to help.
+   Professional and safe installation of electrical systems for new constructions or upgrades. Quick and reliable repair services to keep your electrical systems running smoothly. Custom lighting designs and installations to enhance your space and save energy. 
+   Ensure your home or business stays powered during outages with our generator services.
+  </p>
+</section>
+
+<section class="section">
+  <h2>Electrical Services</h2>
+
+  <div class="services">
+    <div class="card">
+      <h3>Installations</h3>
+      <p>O.S. Electric is a trusted electrician serving Buffalo, New York, and surrounding areas. Backed by 20+ years of experience, we're committed to delivering dependable electrical solutions tailored to your needs.</p>
+    </div>
+
+    <div class="card">
+      <h3>Repairs & Maintenance</h3>
+      <p>At O.S. Electric, we prioritize safety, quality, and customer satisfaction. Contact us today for reliable electrical services in Buffalo, NY.
+        Efficient troubleshooting and long-term electrical solutions.</p>
+    </div>
+
+    <div class="card">
+      <h3>Lighting Solutions</h3>
+      <p>Interior and exterior lighting designed for efficiency and style.
+        Efficient troubleshooting and long-term electrical solutions.
+         Generator and backup systems to protect against outages.
+      </p>
+    </div>
+
+    <div class="card">
+      <h3>Backup Power</h3>
+      <p>At O.S. Electric, our work is built to last. With over 20 years of experience, our family-owned Buffalo electrical company provides licensed, code-compliant electrical services focused on safety, reliability, and long-term performance.
+        Generator and backup systems to protect against outages.</p>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="contact">
+  <h2>Contact O.S. Electric</h2>
+  <p><strong>Phone:</strong> (716) 570-3363</p>
+  <p><strong>Email:</strong> oselectric3@gmail.com</p>
+  <p><strong>Location:</strong> Buffalo, NY</p>
+</section>
+
+<footer class="footer">
+  Â© 2025 O.S. Electric â€¢ Licensed â€¢ Experienced â€¢ Reliable
+</footer>
+
+</body>
+</html>
